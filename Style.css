@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(0, 0, 0);
+    
+}
+.img1{
+    background-image: url("CARTE.png");
+    height: 800px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
